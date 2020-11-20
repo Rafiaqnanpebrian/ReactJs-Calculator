@@ -1,0 +1,6 @@
+.calculator {
+    height: 80vh;
+    width: 25%;
+    box-shadow: 0 2rem 4rem var(black);
+    background-color: white;
+  }

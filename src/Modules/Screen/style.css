@@ -1,0 +1,9 @@
+.screen {
+    height: 25vh;
+    width: 100%;
+    padding: 0 2rem;
+    overflow: hidden;
+    white-space: no-wrap;
+    color: #eeeeee;
+    background-color:#d40640;
+  }
